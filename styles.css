@@ -1,0 +1,38 @@
+* {
+    border: 1px solid gold;
+}
+
+nav li{
+    display: inline-block;
+}
+
+li img {
+    width: 30px;
+    height: 30px;
+    /* min-width: 30px;
+    min-height: 30px; */
+}
+
+div {
+    padding: 5px;
+}
+
+img.banner {
+    min-height: 140px;
+    min-width: 600px;
+}
+
+img.navbanner {
+    width: 198px;
+    height: 68px;
+}
+
+/* div.content {
+    text-align: center;
+    width: 20%;
+} */
+
+div.content {
+    width: 40%;
+    
+}
